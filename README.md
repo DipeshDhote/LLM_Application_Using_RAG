@@ -1,4 +1,4 @@
-# Q&A document  RAG Application Project
+# Q&A document  RAG Application 
 
 ## Overview
 
